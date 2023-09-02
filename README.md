@@ -1,5 +1,5 @@
 # flash-card-project
-Certainly! Here's a shorter description of the project:
+Here's a shorter description of the project:
 
 Flash Card Vocabulary Learning App:
 
